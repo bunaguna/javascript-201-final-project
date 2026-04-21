@@ -1,0 +1,3 @@
+cookie files, modules, Try/Catch ბლოკი შეცდომებისთვის
+
+Debugging და ფორმის ვალიდაცია Chrome DevTools (Breakpoints, Network tab). 
